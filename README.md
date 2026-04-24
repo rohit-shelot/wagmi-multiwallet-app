@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Web3 Hub — Next.js + Wagmi
 
 Multi-wallet Web3 dApp: MetaMask · Coinbase · WalletConnect  
@@ -49,4 +48,4 @@ mainnet · polygon · arbitrum · optimism · base
 =======
 # wagmi-multiwallet-app
 A Web3 DApp frontend built using Next.js and Wagmi, supporting multi-wallet integration (MetaMask, Coinbase, WalletConnect). Users can seamlessly connect wallets, switch networks, send transactions, and sign messages using optimized Wagmi hooks.
->>>>>>> 8a60cc8b8edc4e3fef6604520b56c34fc8287452
+
